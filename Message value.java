@@ -1,0 +1,12 @@
+public class MessageValue
+{
+	public static void main(String[] args) {
+	    
+	    String message1 = ("The value of pie is:");
+	    Double value = 3.1415;
+	    
+		System.out.println(message1);
+		System.out.println(value);	
+	}
+}
+
